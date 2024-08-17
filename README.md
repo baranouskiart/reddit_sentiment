@@ -1,9 +1,8 @@
 # reddit_sentiment
 ## Introduction:
 
-The purpose of this project is to perform sentiment analysis on Reddit headlines and comments to identify the most popular CRM and ERP system alternatives.
-The goal is to understand and visualize the impact of various project management systems using Reddit data.
-This project is a classification task.
+The purpose of this project is to perform sentiment analysis on Reddit headlines and comments to identify the most popular CRM and ERP systems using 'alternative' threads.
+The goal is to visualize the impact of various business management systems on user's satisfaction and popularity using Reddit data.
 
 ## Methodology:
 
